@@ -37,7 +37,7 @@ export const Main = () => {
                   className="btn btn-primary btn-lg"
                   onClick={handleClick}
                 >
-                  Random Button
+                  Generate
                 </button>
               </div>
             </div>
